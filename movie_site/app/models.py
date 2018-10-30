@@ -117,7 +117,7 @@ class Auth(db.Model):
     __tablename__ = "auth"
     id = db.Column(db.Integer, primary_key=True)#标号
     name = db.Column(db.String(100), unique=True)#标题
-    url = db.Column(db.String(255), unique=True)
+    url = db.Column(db.String(255), unique=True)#url
     addtime = db.Column(db.DateTime, index=True, default=datetime.utcnow)  # 添加时间
 
     def __repr__(self):
