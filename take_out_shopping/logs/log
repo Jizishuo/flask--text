@@ -1,0 +1,220 @@
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR __init__.py:97 Error: Path doesn't exist: 'migrations'.  Please use the 'init' command to create a new scripts folder.
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:10:25] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:10:25] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:10:25] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:10:25] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:10:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:10:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:10:25] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:25] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:25] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:25] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:25] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:32] "[1m[35mGET /index/html HTTP/1.1[0m" 500 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:32] "[37mGET /index/html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:32] "[37mGET /index/html?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:32] "[37mGET /index/html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:32] "[37mGET /index/html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:32] "[37mGET /index/html?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:11:32] "[37mGET /index/html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\web_html.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:35] "[33mGET /index/html HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[33mGET /api/check_login HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:40] "[33mGET /api/house/index HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:12:57] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:15] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/css/ihome/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/css/ihome/index.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/js/jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/js/template.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/js/ihome/index.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /static/images/logo@128x59.png HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[33mGET /api/house/index HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:16] "[33mGET /api/check_login HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 15:13:17] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\web_html.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:04] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/css/ihome/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/css/ihome/index.css HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/js/jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/js/template.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/js/ihome/index.js HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /static/images/logo@128x59.png HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[33mGET /api/house/index HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:05] "[33mGET /api/check_login HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:06] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:34:30] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:36:08] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:36:08] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:36:08] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:36:14] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 16:36:14] "[33mGET /api/piccode?pre=&cur=4e7edd57-fce4-4cab-b1b1-e8b645867d8c HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\models.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:14:49] "[33mGET /api/v1.0/index HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:15:07] "[33mGET /api/v1.0/index HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:15:41] "[37mGET /api/v1/index HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:13] "[1m[35mGET /api/v1/iamge_code/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:13] "[37mGET /api/v1/iamge_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:13] "[37mGET /api/v1/iamge_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:13] "[37mGET /api/v1/iamge_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:13] "[37mGET /api/v1/iamge_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:13] "[37mGET /api/v1/iamge_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:13] "[37mGET /api/v1/iamge_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:52] "[1m[35mGET /api/v1/image_code/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:52] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:52] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:52] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:53] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:53] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:16:53] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:18:34] "[1m[35mGET /api/v1/image_code/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:18:34] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:18:34] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:18:34] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:18:34] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:18:34] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:37:33] "[1m[35mGET /api/v1/image_code/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:37:33] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:37:33] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:37:33] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:37:34] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:37:34] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:40:54] "[1m[35mGET /api/v1/image_code/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:40:54] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:40:54] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:40:54] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:40:54] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Oct/2018 20:40:54] "[37mGET /api/v1/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\constants.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 774-476-982
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\pythonÏîÄ¿\\flaskÏîÄ¿\\take_out_shopping\\home\\api_v1\\verify_code.py', reloading
+INFO _internal.py:88  * Restarting with stat
