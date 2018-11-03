@@ -145,6 +145,18 @@ def check_session():
 #退出
 @api.route('/session', methods=['DELETE'])
 def logout():
+    csrf_token = session.get('csrf_token')
     session.clear()
+    session['csrf_token'] = csrf_token
+
+    # 重点
+    # 退出的时候 cookies, bobdy, session 都需要有csrf_token 不能全部删除了session读取是从redis
+    # 浏览器重新加载 需要保留csrf_token
+    #if field_name not in g:
+        #if field_name not in session:
+            #session[field_name] = hashlib.sha1(os.urandom(64)).hexdigest()
+
+    #源码 这个的 问题
+
     return jsonify(errno=RET.OK, errmsg='ok')
 
