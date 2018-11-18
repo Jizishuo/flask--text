@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>投票</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>li{cursor: pointer;}</style>
+</head>
+<body>
+
+<ul id="userlist">
+    {% for key, val in users.items() %}
+        <li uid="{{ key }}">{{ val.name }}({{val.count}})</li>
+    {% endfor %}
+</ul>
+
+<script src="https://cdn.bootcss.com/jquery/3.3.0/jquery.min.js"></script>
+<script>
+    $(function () {
+        $('#userlist').on('click', 'li', function () {
+            //console.log('333')
+            var uid = $(this).attr('uid');
+            $.ajax({
+                url:'http://127.0.0.1:5000/vote',
+                type:'POST',
+                data:{uid:uid},
+                success:function (arg) {
+                    console.log(arg)
+                }
+                }
+        )
+        });
+        get_cote();
+    });
+
+    /*获取投票信息投票*/
+    function get_cote() {
+        $.ajax({
+            url:'http://127.0.0.1:5000/get/vote',
+            type:'GET',
+            dataType:'JSON',
+            success:function (arg) {
+                //console.log(arg)
+                if(arg.status){         //status有才更新
+                    $('#userlist').empty() //清理li的内容
+                    $.each(arg.data, function (k,v) {
+                        console.log(k,v)
+                        var li = document.createElement('li');
+                        li.setAttribute('uid', k);
+                        li.innerText = v.name + "(" + v.count + ")";
+                        $('#userlist').append(li);
+                })
+                }
+                get_cote(); //没有投票再次循环等待递归
+            }
+        })
+    }
+
+    //setInterval(get_cote, 3000);  //3秒执行一次
+</script>
+</body>
+</html>
